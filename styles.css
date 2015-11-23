@@ -1,0 +1,21 @@
+.cell{
+  width: 4em;
+  height: 4em;
+  background-color: lightblue;
+}
+
+
+.player-1{
+  background-color: lightgreen;
+}
+
+.player-2{
+  background-color: pink;
+}
+
+
+body{
+  color: snow;
+  font-family: 'Indie Flower', cursive;
+  background-image: url(http://celsiussnow.com/wp-content/uploads/2013/08/Light-Wood-Background1-1024x640.jpg);
+}
